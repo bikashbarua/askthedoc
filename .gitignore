@@ -1,0 +1,21 @@
+# Virtual Environment
+rag_env/
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# FAISS / Vector DB
+*.index
+faiss_index/
+
+# Documents
+*.pdf
+
+# OS Files
+.DS_Store
+Thumbs.db
